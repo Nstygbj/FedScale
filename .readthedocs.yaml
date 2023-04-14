@@ -10,3 +10,4 @@ build:
 
 conda:
   environment: environment.yml
+  husdu
